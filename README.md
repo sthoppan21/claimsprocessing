@@ -6,7 +6,8 @@ The Enterprise Claims Processing application employs a robust, highly scalable, 
   Robust AWS data pipelines
   A rigorous 5-layer PII security model.
 
-  <img width="3583" height="3937" alt="ClaimsProcessing_Mappings" src="https://github.com/user-attachments/assets/661ad1ab-3633-40c4-be30-521e9eee08e2" />
+<img width="3822" height="8537" alt="ClaimsProcessing_Stack" src="https://github.com/user-attachments/assets/7a681da1-fe1e-4a72-9550-ded26ffc7bf8" />
+
 
 
 ### End-to-End System Architecture Layers
