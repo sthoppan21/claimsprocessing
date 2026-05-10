@@ -6,6 +6,9 @@ The Enterprise Claims Processing application employs a robust, highly scalable, 
   Robust AWS data pipelines
   A rigorous 5-layer PII security model.
 
+  <img width="3583" height="3937" alt="ClaimsProcessing_Mappings" src="https://github.com/user-attachments/assets/661ad1ab-3633-40c4-be30-521e9eee08e2" />
+
+
 ### End-to-End System Architecture Layers
 The platform is organized into seven decoupled layers:
 1. **Source Systems Layer:** Origin points for claims (web portals, mobile apps, legacy mainframes) that send JSON payloads secured via HTTPS/mTLS.
